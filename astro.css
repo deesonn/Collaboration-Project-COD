@@ -1,0 +1,75 @@
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: right;
+  background-color: #f08e80;
+  color: #ffffff;
+  height: 50px;
+  margin: 0;
+  padding: 1em;
+  font-family: "Comfortaa", Times, serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+nav li {
+  margin: 1em;
+}
+
+.astronomyHeader {
+  font-family: 'Tac One', Georgia, "Times New Roman", Times, serif;
+  font-size: 150px;
+  text-align: center;
+}
+
+body {
+  font-family: "Forum", Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.comment {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ddd;
+}
+
+.hero {
+  background-color: #f08e80;
+  min-height: 90vh;
+  color: white;
+}
+
+.one-column-section {
+  padding: 0 15%;
+}
+
+.two-column-section {
+  padding: 0 15%;
+}
+
+.importantNames {
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+.product {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.commentSection {
+  background-color: #fdf0e6;
+  padding: 64px 0;
+  display: inline-block;
+  width: 100%;
+}
